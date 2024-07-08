@@ -1,0 +1,9 @@
+# 训练集、验证集位置
+train: E:/python/yolo_analyze/tws_anker/train/datasets/tws-anker/images/train/
+val: E:/python/yolo_analyze/tws_anker/train/datasets/tws-anker/images/val/
+
+# 几个分类
+nc: 5
+
+# 分类名称
+names: ['ammeter','ear-in','ear-out','screen-value','screen-zero']
