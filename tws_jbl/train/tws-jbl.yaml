@@ -1,0 +1,9 @@
+# 训练集、验证集位置
+train: E:/python/yolo_analyze/tws_jbl/train/datasets/tws-jbl/images/train/
+val: E:/python/yolo_analyze/tws_jbl/train/datasets/tws-jbl/images/val/
+
+# 几个分类
+nc: 6
+
+# 分类名称
+names: ['close','left-ear','open-left','open-right','open-rl','right-ear']
