@@ -1,0 +1,8 @@
+Roboflow官网：
+https://roboflow.com/?ref=ultralytics
+
+YOLOv8 项目地址：
+https://github.com/ultralytics/ultralytics
+
+YOLOv8 官方教程：
+https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/#preparing-a-custom-dataset-for-yolov8

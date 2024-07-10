@@ -1,0 +1,27 @@
+参考文档:
+https://labelstud.io/guide/start
+
+注册账号:
+account: rowangame@163.com
+psw: tbxxxx66
+
+启动
+1.(默认8080端口)：
+label-studio start 
+2.其它端口启动
+label-studio start --port 8098
+
+查看版本号:
+label-studio version
+
+帮助:
+label-studio --help
+
+使用帮助：
+1. import 
+2. 点击 Labeling Interface -> 选择 Object Detect With Bouding Boxes
+3. 删除默认的lables 如：Airplane, Car
+4. 添加一个lablenames (表示当前要训练的对象名)->点save
+5. 标记区域->选中左下角标签(当前要训练的对象名)->标记对象区域->submit
+6. 如果需要删除当前的对象:
+   点: 左上角->对象目录名->点Actions->删除当前对象
